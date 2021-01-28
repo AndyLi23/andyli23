@@ -10,4 +10,4 @@ I'm currently trying to make [USACO Gold](https://github.com/AndyLi23/usaco).
 
 ![](https://github-readme-stats.vercel.app/api?username=andyli23&show_icons=true&hide_border=true&count_private=true&theme=dracula&hide=issues,prs)
 
-the dog ate my code :AAA:
+the dog ate my code :aaa:
