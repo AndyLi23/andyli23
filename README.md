@@ -9,3 +9,5 @@ I'm the tech coordinator and a co-founder at [ThetaHacks](https://thetahacks.tec
 I'm currently trying to make [USACO Gold](https://github.com/AndyLi23/usaco).
 
 ![](https://github-readme-stats.vercel.app/api?username=andyli23&show_icons=true&hide_border=true&count_private=true&theme=dracula&hide=issues,prs)
+
+I wish there was Discord Nitro for Github :PepeLaugh:
