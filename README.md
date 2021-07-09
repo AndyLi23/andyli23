@@ -1,6 +1,6 @@
-### hi
+### Hi
 
-stuff i do:
+Stuff i do:
 - Competitive algorithmic programming with C++
 - Webscraping, data science and machine learning/deep learning with Python
 - FRC programming and game development with Java
