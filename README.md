@@ -4,7 +4,7 @@ Stuff I like to do:
 - Competitive algorithmic programming with C++
 - Webscraping, data science and machine learning/deep learning with Python
 - FRC programming and game development with Java
-- Math :)
+- Mechatronics/controls engineering
 
-I'm the programming lead at [FRC Team #1351](https://www.amhsrobotics.com/). I'm also in the MAPxCS team at Mitty.<br><br>
+I'm the VP of Engineering at [FRC Team #1351](https://www.amhsrobotics.com/). I'm also in the MAPxCS team at Mitty.<br><br>
 Finally in [USACO Gold](https://github.com/AndyLi23/usaco)<br>
